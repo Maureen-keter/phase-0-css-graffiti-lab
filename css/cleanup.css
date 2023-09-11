@@ -1,1 +1,18 @@
-/* write your override styles here */
+
+/* Remove graffiti from tag-5 */
+#wall .parent .slick {
+  background: none;
+  color: inherit;
+}
+
+/* Remove graffiti from tag-6 */
+#wall .parent div div#tag-6 {
+  background: none;
+  color: inherit;
+}
+
+/* Remove graffiti from tag-7 */
+#wall .parent div div#tag-7.slick {
+  background: none;
+  color: inherit;
+}
